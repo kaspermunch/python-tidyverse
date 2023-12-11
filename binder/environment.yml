@@ -1,0 +1,11 @@
+name: python-tidyverse
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - ipython
+  - jupyterlab
+  - nodejs
+  - r-essentials
+  - seaborn
+prefix: /Users/kmt/miniconda3/envs/python-tidyverse
