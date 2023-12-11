@@ -8,4 +8,5 @@ dependencies:
   - nodejs
   - r-essentials
   - seaborn
+  - git
 prefix: /Users/kmt/miniconda3/envs/python-tidyverse
