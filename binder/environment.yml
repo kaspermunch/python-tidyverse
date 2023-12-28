@@ -9,4 +9,7 @@ dependencies:
   - r-essentials
   - seaborn
   - git
+  - rpy2
+  - biopython
+  - pygwalker=0.3.18
 prefix: /Users/kmt/miniconda3/envs/python-tidyverse
